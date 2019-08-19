@@ -1,1 +1,3 @@
 webpack-wfp/node_modules/*
+es6/rollup/node_modules/*
+es6/rollup/build/*
